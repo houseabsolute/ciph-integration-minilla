@@ -52,6 +52,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/houseabsolute/ciph-integration-minilla/issues"
+      },
+      "homepage" : "https://github.com/houseabsolute/ciph-integration-minilla",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/houseabsolute/ciph-integration-minilla.git",
+         "web" : "https://github.com/houseabsolute/ciph-integration-minilla"
+      }
+   },
    "version" : "0.01",
    "x_authority" : "cpan:DROLSKY",
    "x_serialization_backend" : "JSON::PP version 4.04",
