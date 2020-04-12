@@ -4,7 +4,6 @@ resources:
       type: github
       name: houseabsolute/ci-perl-helpers
       endpoint: houseabsolute/ci-perl-helpers
-      ref: refs/heads/add-tests
 
 stages:
   - template: templates/helpers/build.yml@ci-perl-helpers
